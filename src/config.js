@@ -27,40 +27,40 @@ const PAGES_DATA = [
     icon: "https://image.fuyiran.icu/img-icon/cube1.png"
   },
     {
-    pageId: 1,
-    sortId: 2,
+    pageId: 2,
+    sortId: 1,
     title: "Vercel线路",
     subtitle: "https://vercel.fuyiran.icu",
     url: "https://vercel.fuyiran.icu",
     icon: "https://image.fuyiran.icu/img-icon/cube2.png"
   },
     {
-    pageId: 1,
-    sortId: 3,
+    pageId: 3,
+    sortId: 1,
     title: "又拍云线路",
     subtitle: "https://blog.fuyiran.icu",
     url: "https://blog.fuyiran.icu",
     icon: "https://image.fuyiran.icu/img-icon/cube3.png"
   },
     {
-    pageId: 1,
-    sortId: 4,
+    pageId: 4,
+    sortId: 1,
     title: "Github线路",
     subtitle: "https://www.xwysyy.life",
     url: "https://www.xwysyy.life",
     icon: "https://image.fuyiran.icu/img-icon/cube4.png"
   },
     {
-    pageId: 1,
-    sortId: 5,
+    pageId: 5,
+    sortId: 1,
     title: "Netlify线路",
     subtitle: "https://netlify.fuyiran.icu",
     url: "https://netlify.fuyiran.icu",
     icon: "https://image.fuyiran.icu/img-icon/cube5.png"
   },
     {
-    pageId: 1,
-    sortId: 6,
+    pageId: 6,
+    sortId: 1,
     title: "Cloudflare线路",
     subtitle: "https://xwysyy.pages.dev",
     url: "https://xwysyy.pages.dev",
