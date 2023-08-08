@@ -66,14 +66,37 @@ const PAGES_DATA = [
     url: "https://xwysyy.pages.dev",
     icon: "https://image.fuyiran.icu/img-icon/cube6.png"
   },
-  
-  {
+    {
+    pageId: 1,
+    sortId: 2,
+    title: "Lijz的魔方小站",
+    subtitle: "https://cube.fuyiran.icu",
+    url: "https://cube.fuyiran.icu",
+    icon: "https://image.fuyiran.icu/img-icon/cube7.png"
+  },
+    {
     pageId: 2,
     sortId: 2,
-    title: "主标题",
-    subtitle: "副标题",
-    url: "http://www.your-web-page.xyz/",
-    icon: ""
+    title: "xwysyy图床",
+    subtitle: "https://tuchuang.fuyiran.icu",
+    url: "https://tuchuang.fuyiran.icu",
+    icon: "https://image.fuyiran.icu/img-icon/cube8.png"
+  },
+    {
+    pageId: 3,
+    sortId: 2,
+    title: "xwysyy云盘",
+    subtitle: "https://pan.fuyiran.icu",
+    url: "https://pan.fuyiran.icu",
+    icon: "https://image.fuyiran.icu/img-icon/cube9.png"
+  },
+    {
+    pageId: 4,
+    sortId: 2,
+    title: "xwysyy ChatGPT",
+    subtitle: "https://chatgpt.fuyiran.icu",
+    url: "https://chatgpt.fuyiran.icu",
+    icon: "https://image.fuyiran.icu/img-icon/cube10.png"
   }
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
 
