@@ -21,11 +21,52 @@ const PAGES_DATA = [
   {
     pageId: 1,
     sortId: 1,
-    title: "主标题",
-    subtitle: "副标题",
-    url: "http://www.your-web-page.com/",
-    icon: ""
+    title: "腾讯云主线路",
+    subtitle: "https://www.fuyiran.icu",
+    url: "https://www.fuyiran.icu",
+    icon: "https://image.fuyiran.icu/img-icon/cube1.png"
   },
+    {
+    pageId: 1,
+    sortId: 2,
+    title: "Vercel线路",
+    subtitle: "https://vercel.fuyiran.icu",
+    url: "https://vercel.fuyiran.icu",
+    icon: "https://image.fuyiran.icu/img-icon/cube2.png"
+  },
+    {
+    pageId: 1,
+    sortId: 3,
+    title: "又拍云线路",
+    subtitle: "https://blog.fuyiran.icu",
+    url: "https://blog.fuyiran.icu",
+    icon: "https://image.fuyiran.icu/img-icon/cube3.png"
+  },
+    {
+    pageId: 1,
+    sortId: 4,
+    title: "Github线路",
+    subtitle: "https://www.xwysyy.life",
+    url: "https://www.xwysyy.life",
+    icon: "https://image.fuyiran.icu/img-icon/cube4.png"
+  },
+    {
+    pageId: 1,
+    sortId: 5,
+    title: "Netlify线路",
+    subtitle: "https://netlify.fuyiran.icu",
+    url: "https://netlify.fuyiran.icu",
+    icon: "https://image.fuyiran.icu/img-icon/cube5.png"
+  },
+    {
+    pageId: 1,
+    sortId: 6,
+    title: "Cloudflare线路",
+    subtitle: "https://xwysyy.pages.dev",
+    url: "https://xwysyy.pages.dev",
+    icon: "https://image.fuyiran.icu/img-icon/cube6.png"
+  },
+  
   {
     pageId: 2,
     sortId: 2,
@@ -37,7 +78,7 @@ const PAGES_DATA = [
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
 
 const SLOGAN = [
-  "像我这样善良的人"
+  "鼠标滚轮上滑或点击下方箭头以查看个人网站"
 ]; // 在Logo下方显示的标题
 
 const FOOTER_INFO = true; // 是否显示抽屉右下角的文字信息
