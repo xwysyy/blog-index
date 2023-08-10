@@ -8,7 +8,7 @@ const BLOG_URL = "https://www.fuyiran.icu"; // 个人网站链接（请填写完
 
 const GITHUB = "https://github.com/xwysyy"; // 右上角 Github 图标链接，留空不显示
 
-const BACKGROUND_IMG_URL = "https://pic.imgdb.cn/item/64d4d4371ddac507cc1d1b1d.png"; // 背景图片url，默认为必应每日图片（第三方接口）
+const BACKGROUND_IMG_URL = "https://api.dujin.org/bing/1920.php"; // 背景图片url，默认为必应每日图片（第三方接口）
 
 const SORT_DATA = [
   { sortId: 1, title: "博客线路" },
