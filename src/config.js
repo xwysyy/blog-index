@@ -4,7 +4,7 @@ const HOST = ""; // 线上服务器地址，如果不使用请留空
 
 const BLOG_NAME = "我的博客"; // 个人网站名字
 
-const BLOG_URL = "https://www.fuyiran.icu"; // 个人网站链接（请填写完整链接）
+const BLOG_URL = "https://www.xwysyy.cn"; // 个人网站链接（请填写完整链接）
 
 const GITHUB = "https://github.com/xwysyy"; // 右上角 Github 图标链接，留空不显示
 
@@ -22,25 +22,25 @@ const PAGES_DATA = [
     pageId: 1,
     sortId: 1,
     title: "腾讯云主线路",
-    subtitle: "https://www.fuyiran.icu",
-    url: "https://www.fuyiran.icu",
-    icon: "https://image.fuyiran.icu/img-icon/cube1.png"
+    subtitle: "https://www.xwysyy.cn",
+    url: "https://www.xwysyy.cn",
+    icon: "https://image.xwysyy.cn/img-icon/cube1.png"
   },
     {
     pageId: 2,
     sortId: 1,
     title: "Vercel线路",
-    subtitle: "https://vercel.fuyiran.icu",
-    url: "https://vercel.fuyiran.icu",
-    icon: "https://image.fuyiran.icu/img-icon/cube2.png"
+    subtitle: "https://vercel.xwysyy.cn",
+    url: "https://vercel.xwysyy.cn",
+    icon: "https://image.xwysyy.cn/img-icon/cube2.png"
   },
     {
     pageId: 3,
     sortId: 1,
-    title: "又拍云线路",
-    subtitle: "https://blog.fuyiran.icu",
-    url: "https://blog.fuyiran.icu",
-    icon: "https://image.fuyiran.icu/img-icon/cube3.png"
+    title: "Gitee线路",
+    subtitle: "https://xwysyy.gitee.io",
+    url: "https://xwysyy.gitee.io",
+    icon: "https://image.xwysyy.cn/img-icon/cube3.png"
   },
     {
     pageId: 4,
@@ -48,15 +48,15 @@ const PAGES_DATA = [
     title: "Github线路",
     subtitle: "https://www.xwysyy.life",
     url: "https://www.xwysyy.life",
-    icon: "https://image.fuyiran.icu/img-icon/cube4.png"
+    icon: "https://image.xwysyy.cn/img-icon/cube4.png"
   },
     {
     pageId: 5,
     sortId: 1,
     title: "Netlify线路",
-    subtitle: "https://netlify.fuyiran.icu",
-    url: "https://netlify.fuyiran.icu",
-    icon: "https://image.fuyiran.icu/img-icon/cube5.png"
+    subtitle: "https://netlify.xwysyy.cn",
+    url: "https://netlify.xwysyy.cn",
+    icon: "https://image.xwysyy.cn/img-icon/cube5.png"
   },
     {
     pageId: 6,
@@ -64,39 +64,39 @@ const PAGES_DATA = [
     title: "Cloudflare线路",
     subtitle: "https://xwysyy.pages.dev",
     url: "https://xwysyy.pages.dev",
-    icon: "https://image.fuyiran.icu/img-icon/cube6.png"
+    icon: "https://image.xwysyy.cn/img-icon/cube6.png"
   },
     {
     pageId: 1,
     sortId: 2,
     title: "Lijz的魔方小站",
-    subtitle: "https://cube.fuyiran.icu",
-    url: "https://cube.fuyiran.icu",
-    icon: "https://image.fuyiran.icu/img-icon/cube7.png"
+    subtitle: "https://cube.xwysyy.cn",
+    url: "https://cube.xwysyy.cn",
+    icon: "https://image.xwysyy.cn/img-icon/cube7.png"
   },
     {
     pageId: 2,
     sortId: 2,
     title: "xwysyy图床",
-    subtitle: "https://tuchuang.fuyiran.icu",
-    url: "https://tuchuang.fuyiran.icu",
-    icon: "https://image.fuyiran.icu/img-icon/cube8.png"
+    subtitle: "https://tuchuang.xwysyy.cn",
+    url: "https://tuchuang.xwysyy.cn",
+    icon: "https://image.xwysyy.cn/img-icon/cube8.png"
   },
     {
     pageId: 3,
     sortId: 2,
-    title: "xwysyy云盘",
-    subtitle: "https://pan.fuyiran.icu",
-    url: "https://pan.fuyiran.icu",
-    icon: "https://image.fuyiran.icu/img-icon/cube9.png"
+    title: "今日热榜",
+    subtitle: "https://hot.xwysyy.cn",
+    url: "https://hot.xwysyy.cn",
+    icon: "https://image.xwysyy.cn/img-icon/cube9.png"
   },
     {
     pageId: 4,
     sortId: 2,
     title: "xwysyy ChatGPT",
-    subtitle: "https://chatgpt.fuyiran.icu",
-    url: "https://chatgpt.fuyiran.icu",
-    icon: "https://image.fuyiran.icu/img-icon/cube10.png"
+    subtitle: "https://chatgpt.xwysyy.cn",
+    url: "https://chatgpt.xwysyy.cn",
+    icon: "https://image.xwysyy.cn/img-icon/cube10.png"
   }
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
 
